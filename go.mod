@@ -1,4 +1,4 @@
-module pwd_encrypt
+module pwd-encrypt
 
 go 1.21
 

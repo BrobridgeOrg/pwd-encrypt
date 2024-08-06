@@ -1,4 +1,4 @@
-module pwd-encrypt
+module github.com/BrobridgeOrg/pwd-encrypt
 
 go 1.21
 
